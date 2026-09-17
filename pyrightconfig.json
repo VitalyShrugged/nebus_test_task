@@ -1,0 +1,20 @@
+{
+  "reportMissingImports": true,
+  "reportGeneralTypeIssues": true,
+  "reportUnknownLambdaType": "error",
+  "reportUnboundVariable": "error",
+  "reportPropertyTypeMismatch": true,
+  "reportMissingModuleSource": "error",
+  "reportImportCycles": true,
+  "reportUnusedImport": true,
+  "reportUnusedClass": true,
+  "reportUnusedVariable": true,
+  "reportDuplicateImport": true,
+  "reportWildcardImportFromLibrary": true,
+  "reportUntypedBaseClass": true,
+  "reportUntypedNamedTuple": true,
+  "reportTypeCommentUsage": true,
+  "reportConstantRedefinition": true,
+  "reportDeprecated": true,
+  "reportInconsistentConstructor": true
+}
